@@ -4,18 +4,9 @@
 #         self.val = val
 #         self.next = next
 class Solution:
-    def middleNode(self, head: Optional[ListNode]) -> Optional[ListNode]:
-        pointer = head
-
-        def getSize(head):
-            if head is None:
-                return 0
-            return 1 + getSize(head.next)
-        
-        n = getSize(head)
-        n = n // 2
-        
-        for i in range(0, n):
-            pointer = pointer.next
-        print(pointer.val)
-        return pointer
+    def middleNode(self, head):
+        tmp = head
+        while tmp and tmp.next:
+            head = head.next
+            tmp = tmp.next.next
+        return head
