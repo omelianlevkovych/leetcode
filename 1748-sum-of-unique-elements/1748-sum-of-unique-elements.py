@@ -1,21 +1,15 @@
 class Solution:
     def sumOfUnique(self, nums: List[int]) -> int:
-        n = len(nums)
-        s = sorted(nums)
+        hashmap = {}
         
-        if n == 1:
-            return nums[0]
+        for i in nums:
+            if i not in hashmap:
+                hashmap[i] = 1
+            else:
+                hashmap[i] += 1
         
-        ans = 0
-        if s[0] != s[1]:
-            ans += s[0]
-        if s[n - 1] != s[n - 2]:
-            ans += s[n - 1]
-        
-        print(s)
-        
-        for i in range(1, n - 1):
-            if s[i] != s[i - 1] and s[i] != s[i + 1]:
-                ans += s[i]        
-        
-        return ans
+        res = 0;
+        for i in hashmap:
+            if hashmap[i] == 1:
+                res += i
+        return res
