@@ -15,6 +15,7 @@ Solved:
 Done with help:  
 ```
 922 - very smart two pointers (i = 0, j = 1, move two steps and check condition)
+1089
 ```
 Done by myself but need attention:  
 ```
