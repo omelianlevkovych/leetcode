@@ -14,7 +14,7 @@ July
 23.07 - 1089, 88
 24.07 - 27
 25.07 - 26, 34
-26.07 - 1346, 941, 1299,
+26.07 - 1346, 941, 1299, 283,
 ```
 
 Done with help:  
@@ -34,4 +34,10 @@ Done by myself but need attention:
 Didin't get the solution yet:
 ```
 496
+```
+
+
+Notes:
+```
+Two pointers is a great technique. Usually I find it useful when doing in-place manipulation on arrays/strings.
 ```
