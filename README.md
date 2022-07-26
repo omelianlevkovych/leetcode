@@ -14,7 +14,7 @@ July
 23.07 - 1089, 88
 24.07 - 27
 25.07 - 26, 34
-26.07 - 1346, 941, 1299, 283, 905, 27(1),
+26.07 - 1346, 941, 1299, 283, 905, 27(1), 1051
 ```
 
 Done with help:  
@@ -39,5 +39,6 @@ Didin't get the solution yet:
 
 Notes:
 ```
+numer(i) - where number is number of the question, and i is the amount of times I did it
 Two pointers is a great technique. Usually I find it useful when doing in-place manipulation on arrays/strings.
 ```
