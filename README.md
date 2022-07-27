@@ -15,7 +15,7 @@ July
 24.07 - 27
 25.07 - 26, 34
 26.07 - 1346, 941, 1299, 283, 905, 27(1), 1051, 414
-27.07 - 448
+27.07 - 448, 977
 ```
 
 Done with help:  
@@ -31,6 +31,7 @@ Done by myself but need attention:
 1769 - there are smarter solution with O(n)
 88 - I did it@! Well it definitely took too much time than required :)
 448 - there is much simpler solution
+977 - two pointers moving backward
 ```
 
 Didin't get the solution yet:
