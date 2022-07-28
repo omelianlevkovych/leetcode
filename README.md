@@ -16,6 +16,7 @@ July
 25.07 - 26, 34
 26.07 - 1346, 941, 1299, 283, 905, 27(1), 1051, 414
 27.07 - 448, 977
+28.07 - 707
 ```
 
 Done with help:  
@@ -39,6 +40,10 @@ Didin't get the solution yet:
 496
 ```
 
+Additional:
+```
+707 - OOP design
+```
 
 Notes:
 ```
