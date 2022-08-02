@@ -21,13 +21,14 @@ July
 30.07 - 142
 31.07 - 724
 01.08 - 205
-02.08 - 2351
+02.08 - 2351, 160
 ```
 
 Done with help:  
 ```
 922 - very smart two pointers (i = 0, j = 1, move two steps and check condition)
 1089
+160- very impressing and same time simple solution
 26 - two pointers (very wise approach tbh)
 ```
 Done by myself but need attention:  
