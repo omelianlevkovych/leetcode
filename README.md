@@ -28,7 +28,7 @@ August
 04.08 - 1678, 1528
 05.08 - 1470
 06.08 - 2160
-07.08 - 344,
+07.08 - 344, 206(i)
 ```
 
 Done with help:  
@@ -61,5 +61,7 @@ Additional:
 Notes:
 ```
 numer(i) - where number is number of the question, and i is the amount of times I did it
-Two pointers is a great technique. Usually I find it useful when doing in-place manipulation on arrays/strings.
+Two pointers is a great technique. Usually I find it useful when doing in-place manipulation on arrays/strings.\
+i - iterative
+r - recursive
 ```
