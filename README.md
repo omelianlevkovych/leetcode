@@ -41,6 +41,7 @@ September
 05.09 - 1791
 06.09 - 1021
 22.09 - 203
+29.09 - 328
 ```
 
 Done with help:  
@@ -49,6 +50,7 @@ Done with help:
 1089
 160- very impressing and same time simple solution
 26 - two pointers (very wise approach tbh)
+328 - easy as hell, hard to implement without bugggz
 ```
 Done by myself but need attention:  
 ```
