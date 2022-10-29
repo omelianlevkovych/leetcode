@@ -46,6 +46,7 @@ September
 Oct
 02.10 - 234
 03.10 - 1365
+29.10 - 590 global var + recursion ;(
 ```
 
 Done with help:  
