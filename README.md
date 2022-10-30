@@ -47,7 +47,7 @@ Oct
 02.10 - 234
 03.10 - 1365
 29.10 - 590 global var + recursion ;(, 590 (iterative with suggestion using stack+rightAndReverse)
-30.10 - 94 (very easy with global var + recursion)
+30.10 - 94 (very easy recursive)
 ```
 
 Done with help:  
