@@ -1,7 +1,9 @@
 # leetcode
 
 # progress
-Solved:  
+
+
+Solved  :facepunch::  
 
 ```
 July
@@ -53,7 +55,9 @@ November
 01.11 - 832
 ```
 
-Done with help:  
+
+
+Done with help :pray::  
 ```
 922 - very smart two pointers (i = 0, j = 1, move two steps and check condition)
 1089
@@ -61,7 +65,7 @@ Done with help:
 26 - two pointers (very wise approach tbh)
 328 - easy as hell, hard to implement without bugggz
 ```
-Done by myself but need attention:  
+Done by myself but need attention  :construction_worker:  
 ```
 1748 - solved with sorting O(n*logn) while using hashmap its O(n)
 1380 - from solution, zip(), *matrix, set intersection operator &
@@ -71,6 +75,8 @@ Done by myself but need attention:
 977 - two pointers moving backward
 ```
 
-Didin't get the solution yet:
+
+
+Didin't get the solution yet :confused::
 ```
 496
