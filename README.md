@@ -5,7 +5,6 @@ Solved:
 
 ```
 July
-
 18.07 - 1431, 1748
 19.07 - 1380, 922, 496, 118, 1769
 20.07 - 1221, 1773, 2120
@@ -49,6 +48,9 @@ Oct
 29.10 - 590 global var + recursion ;(, 590 (iterative with suggestion using stack+rightAndReverse)
 30.10 - 94 (very easy recursive)
 31.10 - 1389(easy)
+
+November
+01.11 - 832
 ```
 
 Done with help:  
@@ -72,17 +74,3 @@ Done by myself but need attention:
 Didin't get the solution yet:
 ```
 496
-```
-
-Additional:
-```
-707 - OOP design
-```
-
-Notes:
-```
-numer(i) - where number is number of the question, and i is the amount of times I did it
-Two pointers is a great technique. Usually I find it useful when doing in-place manipulation on arrays/strings.\
-i - iterative
-r - recursive
-```
