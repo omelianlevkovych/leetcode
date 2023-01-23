@@ -1,4 +1,3 @@
-# Two pointers (01.16)
 01.16:  
   26. Remove Duplicates from Sorted Array  
 01.17:  
@@ -10,3 +9,4 @@
 
 # not updated for some time  
 3. Longest Substring Without Repeating Characters  
+125. Valid Palindrome  
