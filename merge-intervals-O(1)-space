@@ -1,0 +1,22 @@
+class Solution:
+    def merge(self, intervals: List[List[int]]) -> List[List[int]]:
+        # empty input edge case
+        if not intervals:
+            return []
+        
+        intervals.sort(key = lambda x: x[0])
+
+        index_of_last_merged = 0
+
+        for i in range(1, len(intervals)):
+            current_interval = intervals[i]
+            last_merged_interval = intervals[index_of_last_merged]
+
+            if current_interval[0] <= last_merged_interval[1]:
+                last_merged_interval[1] = max(last_merged_interval[1], current_interval[1])
+            else:
+                index_of_last_merged += 1
+                intervals[index_of_last_merged] = current_interval
+        
+        for i in range(index_of_last_merged + 1):
+            print(intervals[i], end = " ")
