@@ -17,5 +17,5 @@ PrefixSum
 209. Minimum Size Subarray Sum
 2391. Minimum Amount of Time to Collect Garbage
 1685. Sum of Absolute Differences in a Sorted Array
-
+2485. Find the Pivot Integer
 ```
